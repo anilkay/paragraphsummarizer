@@ -1,0 +1,22 @@
+{
+  "name": "paragraphsummarizer",
+  "version": "0.0.1",
+  "description": "return first and last sentence of paragraph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "text",
+    "summary"
+  ],
+  "author": "anilkay",
+  "license": "ISC",
+  "dependencies": {
+    "get-sentences-from-article": "^1.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anilkay/paragraphsummarizer.git"
+  }
+}
